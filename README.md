@@ -1,4 +1,4 @@
-# ML-Notes
+# ML-NOTES
 
 ## This repository is all about understanding the ML concepts
 
